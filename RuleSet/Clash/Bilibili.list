@@ -1,3 +1,6 @@
 # Bilibili
 
 DOMAIN-SUFFIX,*.bilibili.com
+DOMAIN-SUFFIX,api.live.bilibili.com
+DOMAIN-SUFFIX,live.bilibili.com
+DOMAIN-SUFFIX,api.bilibili.com
